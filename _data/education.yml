@@ -1,0 +1,45 @@
+# Education Template
+- layout: left
+  name: University of London
+  dates: April 2020 - present
+  qualification: MSc Data Science
+  quote: >
+    Distance Learning via the University of London
+  description: | # this will include new lines to allow paragraphs
+    MSc in Data Science including Python for DS, Maths and Stats, Machine Learning, Data Visualization, Big Data Analysis, Neural Networks.
+
+- layout: right
+  name: University of San Diego/EdX
+  dates: September 2019 - March 2020
+  qualification: MicroMasters in Data Science
+  quote: >
+    MicroMasters program from university of San Diego via EdX
+  description: | # this will include new lines to allow paragraphs
+    Modules included Python for Data Science, Statistics for Data Science, Big Data Analysis with PySpark and Machine Learning.
+
+- layout: left
+  name: Northumbria University
+  dates: September 2018 - August 2019
+  qualification: PG Cert Leadership and Management
+  quote: >
+    Developing leadership and management skills.
+  description: | # this will include new lines to allow paragraphs
+    Completed two terms encompassing the modules Leadership and Leader Identity which had a large focus on self refelction and gaining a better insight into how to lead authentically, and Creating the Dyanmic Organization where I focused on organizational learning.  
+
+- layout: right
+  name: University of Edinburgh
+  dates: September 2010 - August 2011
+  qualification: MSc Strength and Conditioning
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Masters thesis examined the effect of cluster set loading patterns on peak power output in professional rugby players.  
+
+- layout: left
+  name: Newcastle University
+  dates: September 2007 - July 2010
+  qualification: BSc Biochemistry
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Undergrad thesis examined the quantitive trait loci that determine bone mineral density. 

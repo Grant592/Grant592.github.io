@@ -1,0 +1,38 @@
+# Experience template
+- layout: left
+  company: Newcastle Falcons
+    #  link: Link to company (optional)
+  job_title: Sports Scientist/S&C Coach
+  dates: January 2019 - present
+  quote: >
+   Professional Rugby Union Team
+  description: | # this will include new lines to allow paragraphs
+    My main achievements within my role include -   
+    * Moved all data reporting from excel based sheets to an online Dash based web app hosted on Heroku and moved data storage and management to a MySQL server hosted on AWS.  
+    * Introduced dimensionality reduction techniques (PCA) to simplify how we monitor and feedback player training load  and wellbeing. This not only improved the intepretability of data for coaches and players but also helped us identify the individual athlete risk factors which were not necessarily visible from the original data and resulted in a reduction in the number of time loss injuries.  
+    * Used SVD to create individual athlete ’fingerprints’ to track and monitor performance over time  
+    * Designed and built a custom made hamstring force testing device using load cells, arduino circuit boards and wrote the software in python using PyQt.  
+    * Using raw player GPS data, transformed the data into rolling worst case scenario periods to aid the rugby coaches in  achieveing training intensities above that of match intensities.  
+
+
+- layout: right
+  company: Rugby Football Union
+    #  link: Link to company (optional)
+  job_title: Sports Scientist/S&C Coach
+  dates: January 2016 - December 2018
+  quote: >
+   National Governing Body
+  description: | # this will include new lines to allow paragraphs
+    Key Responsibilities - Provide Strength and Conditioning and Sports Science support to the England National Pathway teams at U18, U20 and Saxons level  
+    * Developed links with universities as a means to create new knowledge in the research of elite adolescent rugby. Was part of a group that published several papers in this area.   
+    * Managed relationships with 14 different academies across the country to ensure the best support was in place for any players identified as future England international players.  
+
+- layout: left
+  company: Newcastle Falcons
+    #  link: Link to company (optional)
+  job_title: Sports Scientist/S&C Coach
+  dates: September 2011 - December 2015
+  quote: >
+   Professional Rugby Union Team
+  description: | # this will include new lines to allow paragraphs
+    Responsible for the delivery of all athletic performance support across the Newcastle Falcons Academy Region from U14 up to Senior Academy.  

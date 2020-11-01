@@ -1,0 +1,96 @@
+# Site
+repository: Grant592/Grant592.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Grant Beasley
+title: Data Guy
+email: grantb592@gmail.com
+phone: 07793746474
+website: Grant592.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+  # twitter_username: jekyllrb
+github_username: Grant592
+  #stackoverflow_username: "00000001"
+  #dribbble_username: jekyll
+  #facebook_username: jekyll
+  #flickr_username: jekyll
+  #instagram_username: jekyll
+  #linkedin_username: jekyll
+  #xing_username: jekyll
+  #pinterest_username: jekyll
+  #youtube_username: jekyll
+  #googleplus_username: +jekyll
+  #orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/headshot_cropped.jpg
+about_content: |   # this will include new lines to allow paragraphs
+  Hi, my name's Grant and I'm a data scientist with ten years experience working in elite professional national and international sport. I enjoy applying new and novel analysis techniques to the work I currently do with a focus on dimensionality reduction and creating interactive dashboards that encourage user engagement and interaction and improve the intepretability of the data.  
+
+
+  I'm competent in using various languages and frameworks including <mark>Python</mark>, <mark>SQL</mark>, <mark> Bash</mark>, <mark>TensorFlow</mark>,  <mark>git</mark>, <mark>Heroku</mark>, <mark>Dash</mark>.  
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Away from work, when I'm not pretending to be a Thomas the Tank engine or Gruffalo character to entertain my toddler, I'm a big music fan.
+
+  I'm a huge fan of Prog Rock bands such a <mark>King Crimson</mark>, <mark>Yes</mark>, <mark>Genesis</mark>, <mark>IQ</mark>  and <mark>Rush</mark>. I'm also a massive free/avant garde jazz fan. I love guys like <mark>Peter Brotzmann</mark>, <mark>Mats Gustafsson</mark>, <mark>Evan Parker</mark>, <mark>Paal Nilssen-Love</mark> who all push the boundries of music.
+
+   Thanks for popping by my site!
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

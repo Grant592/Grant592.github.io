@@ -1,0 +1,55 @@
+# Project template
+- layout: top-middle
+  name: Human Movement Sensor Analysis
+  link: https://github.com/Grant592/movement_classification 
+  github: grant592/movement_classification 
+  quote: >
+    Applying recurrent neural networks to classify movement data from smartphone and smartwatch sensors
+  description: | # this will include new lines to allow paragraphs
+    Using data from [WISDM](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+), I processed the data to created an RNN that classified the data with 77% accuracy. This was over 19 different classes. The challenge with this dataset is accurately classifying movements such as eating and drinking as these are easily confused. The network could easlity distinguish more reuglar, cyclical movements with ease.  
+
+- layout: top-middle
+  name: Financial Dataset Analysis
+  link: https://github.com/Grant592/financial_dataset_analysis
+  github: Grant592/financial_dataset_analysis
+  quote: >
+    Analysis of a financial dataset to predict those who would default on repayments
+  description: | # this will include new lines to allow paragraphs
+    I wanted to take a relatively obscure dataset (to avoid the common Kaggle ones) and one that I could perform most of the ETL process with SQL. The [PKDD'99 dataset](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm) fit the bill. Using a Random Forest classifier resulted in and f1-score of 0.9. 
+
+- layout: top-middle
+  name: Survival Analysis In International Rugby Union
+  link: https://github.com/Grant592/survival_analysis
+  github: grant592/survival_analysis
+  quote: >
+    Analysis of year to year survival rates in international rugby union using Kaplan-Meier estimator
+  description: | # this will include new lines to allow paragraphs
+    Scraped the data of all international rugby union players from ESPN scrum and analysed the data using Kaplan-Meier survival estimator.
+
+- layout: top-middle
+  name: Song Recommendation Engine
+  link: https://github.com/Grant592/song_sentiment_recommender
+  github: Grant592/song_sentiment_recommender
+  quote: >
+    Using sentiment analysis to create song recommendations based on lyrical content
+  description: | # this will include new lines to allow paragraphs
+    Using the [musiXmatch](http://millionsongdataset.com/musixmatch/) dataset, I created a song recommendation engine using tf-idf on the song lyrics. The Dash based dashboard allows a user to search for any artist, select one of their available songs and returns 10 songs with the greatest similarity.  
+
+- layout: top-middle
+  name: Longitudinal Player Monitoring with PCA
+  link: https://github.com/Grant592/pca_dashboard
+  github: Grant592/pca_dashboard
+  quote: >
+    Using PCA to reduce the dimensionality of individual player load monitoring
+  description: | # this will include new lines to allow paragraphs
+     I created a dashboard to visualize player load monitoring with PCA. Interestingly, individuals showed different patterns of explained variance, although for most players >70% of variance could be explained with 2 principle components. For most players, PC1 was a gross measure of load whereas PC2 appeared to be a ratio of higher intensity and lower intensity loads and wellbeing measures.
+
+- layout: top-middle
+  name: Worst Case Scenario Running Demands
+  link: https://github.com/Grant592/WCS_dash_app
+  github: Grant592/WCS_dash_app
+  quote: >
+    A dashboard to visualize and summarize worst case scenario running demands calculated from raw GPS data
+  description: | # this will include new lines to allow paragraphs
+     This webapp takes a raw GPS export from a catapult GPS unit and visualizes and summarizes the worst case running demands for periods from 30 seconds to 4 minutes in 30 seconds intervals.
+
