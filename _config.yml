@@ -46,7 +46,7 @@ github_username: Grant592
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/headshot_cropped.jpg
 about_content: |   # this will include new lines to allow paragraphs
-  Hi, my name's Grant and I'm a data scientist with ten years experience working in elite professional national and international sport. I enjoy applying new and novel analysis techniques to the work I currently do with a focus on dimensionality reduction and creating interactive dashboards that encourage user engagement and interaction and improve the intepretability of the data.  
+  Hi, my name's Grant and I'm a data/sports scientist with ten years experience working in elite professional national and international sport. I enjoy applying new and novel analysis techniques to the work I currently do with a focus on dimensionality reduction and creating interactive dashboards that encourage user engagement and interaction and improve the intepretability of the data.  
 
 
   I'm competent in using various languages and frameworks including <mark>Python</mark>, <mark>SQL</mark>, <mark> Bash</mark>, <mark>TensorFlow</mark>,  <mark>git</mark>, <mark>Heroku</mark>, <mark>Dash</mark>.  
