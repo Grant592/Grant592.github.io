@@ -18,6 +18,15 @@
     I wanted to take a relatively obscure dataset (to avoid the common Kaggle ones) and one that I could perform most of the ETL process with SQL. The [PKDD'99 dataset](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm) fit the bill. Using a Random Forest classifier resulted in and f1-score of 0.9. 
 
 - layout: top-middle
+  name: Force Velocity Profiling Dashboard
+  link: https://github.com/Grant592/force-velocity-app
+  github: grant592/force-velocity-app
+  quote: >
+    Dashboard to feedback force velocity profiles from raw GPS sprint data
+  description: | # this will include new lines to allow paragraphs
+    Building on work from Matt Lacome, JB Morin and Mladen Jovanovic, I created a python implementation of the forec velocity work put forward by the aforementioned coaches/researchers. The dashboard takes a raw GPS file(s) and outputs the force-velocity data for each sprint.
+
+- layout: top-middle
   name: Survival Analysis In International Rugby Union
   link: https://github.com/Grant592/survival_analysis
   github: grant592/survival_analysis
